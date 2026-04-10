@@ -1,21 +1,21 @@
 {
   "name": "AFK Bot",
   "bot-account": {
-    "username": "Slobot00",
-    "password": "",
+    "username": "AFKBotWend",
+    "password": "ShadowFox30190",
     "type": "offline"
   },
   "server": {
     "ip": "7Wend7.aternos.me",
     "port": 56773,
-    "version": "",
+    "version": "1.21.11",
     "try-creative": false
   },
   "position": {
     "enabled": true,
-    "x": 0,
-    "y": 100,
-    "z": 0
+    "x": -29,
+    "y": 91,
+    "z": 29
   },
   "utils": {
     "auto-auth": {
